@@ -1,0 +1,3 @@
+Runner.prototype.gameOver = () => {}
+() => {}
+// Colocar no console (Aperte F12 ou com o *botão direito* clique em 'inspecionar', depois selecione 'console'.)
